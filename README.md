@@ -1,3 +1,12 @@
+##Not fit for public consumption.
+This is an experimental variation on Tanmaykm's word2vec implementation,
+for performing Word Sense Induction, to learn word sense vectors.
+
+While this note is here, code is likely utterly broken, or incomplete.
+
+The bellow readme comes from Tanmaykm's base.
+
+
 # Word2Vec
 
 [![Build Status](https://travis-ci.org/tanmaykm/Word2Vec.jl.svg?branch=master)](https://travis-ci.org/tanmaykm/Word2Vec.jl)
