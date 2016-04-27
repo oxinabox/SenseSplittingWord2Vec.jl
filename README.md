@@ -3,8 +3,11 @@ This is an experimental variation on Tanmaykm's word2vec implementation,
 for performing Word Sense Induction, to learn word sense vectors.
 
 While this note is here, code is likely utterly broken, or incomplete.
+As of this current version, this is a word2vec implementation compatable with julia 0.5
+No Sense Splitting is currently implemented.
 
-The bellow readme comes from Tanmaykm's base.
+
+The below readme comes from Tanmaykm's base.
 
 
 # Word2Vec
